@@ -2,4 +2,4 @@ data:
   env: localhost-online
   user:
     username: root
-    password: a
+    password: aa
